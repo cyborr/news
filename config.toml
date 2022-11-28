@@ -1,0 +1,105 @@
+copyright = 'Cubanoticias todos los derechos reservados'
+defaultContentLanguage = 'es'
+relativeURLS=true
+baseURL = "https://www.cubanoticias.info"
+theme = "ananke"
+disqusShortname = 'cubanoticias'
+
+[Params.social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  whatsapp = true
+  email = true
+  
+
+disableKinds = ["taxonomyTerm"]
+
+[taxonomies]
+   author = "authors"
+   tag = "tags"
+   category = "categories"
+
+
+
+
+
+[languages]
+  [languages.es]
+    contentDir = 'content/es'
+    title = 'Cubanoticias'
+    languageName = 'Spanish'
+    weight = 1
+     [languages.es.params]
+
+   [languages.es.menu]
+   [[languages.es.menu.main]]
+      identifier = 'Inicio'
+      name = 'Inicio'
+      pre = "<i s='fa fa-heart'></i>"
+      url = '/'
+      weight = -110
+
+   [[languages.es.menu.main]]
+      name = 'Videos'
+      post = "<span class='alert'>New!</span>"
+      pre = "<i class='fa fa-road'></i>"
+      url = 'https://www.youtube.com/c/RedxCuba'
+      weight = -100   
+
+  [[languages.es.menu.main]]
+      name = 'Contactar'
+      post = "<span class='alert'>New!</span>"
+      pre = "<i class='fa fa-road'></i>"
+      url = 'mailto:contact@cubanoticias.info'
+      weight = -90
+
+   [[languages.es.menu.main]]
+      name = 'Acerca de...'
+      post = "<span class='alert'>New!</span>"
+      pre = "<i class='fa fa-road'></i>"
+      url = 'https://unstoppabledomains.com/d/cubanoticias.crypto'
+      weight = -80   
+       
+    
+  [languages.en]
+    contentDir = 'content/en'
+    title = 'Cubanoticias'
+    languageName = 'English'
+    weight = 2
+    [languages.en.params]
+     
+   [languages.en.menu]
+   [[languages.en.menu.main]]
+      identifier = 'Home'
+      name = 'Home'
+      pre = "<i s='fa fa-heart'></i>"
+      url = '/en'
+      weight = -110
+  [[languages.en.menu.main]]
+      name = 'Videos'
+      post = "<span class='alert'>New!</span>"
+      pre = "<i class='fa fa-road'></i>"
+      url = 'https://www.youtube.com/c/RedxCuba'
+      weight = -100      
+
+  [[languages.en.menu.main]]
+      name = 'Contact'
+      post = "<span class='alert'>New!</span>"
+      pre = "<i class='fa fa-road'></i>"
+      url = 'mailto:contact@cubanoticias.info'
+      weight = -90
+
+
+  [[languages.en.menu.main]]
+      name = 'About...'
+      post = "<span class='alert'>New!</span>"
+      pre = "<i class='fa fa-road'></i>"
+      url = 'https://unstoppabledomains.com/d/cubanoticias.crypto'
+      weight = -80        
+ 
+
+  
+[params]
+  [params.navigation]
+    Inicio = 'Inicio'
