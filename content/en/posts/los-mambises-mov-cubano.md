@@ -1,5 +1,5 @@
 ---
-title: "Los Mambises, a civic movement to boycott Cuban government businesses"
+title: "Los Mambises, a civic movement to boycott Cuban Dictatorship businesses"
 categories: [Noticias, Cuba]
 tags: [Cuba, Los mambises, Boicot a la Dictadura, Movimiento Civico cubano, Alberto Fonseca]
 authors: ["Esteban Suarez"]
@@ -9,7 +9,7 @@ draft: false
 socialshare: true
 ---
 
-Los Mambises is the name of a peaceful civic struggle movement, created this December with the purpose of boycotting the Cuban government's businesses from social networks.
+Los Mambises is the name of a peaceful civic struggle movement, created this December with the purpose of boycotting the Cuban regime's businesses from social networks.
 
 Its founder is Cuban activist based in Canada, Alberto Fonseca, who earlier this month protested, together with a friend, over the sale of Cubita coffee in stores in the city of Vancouver, a product associated with the state company CIMEX and the GAESA military conglomerate.
 

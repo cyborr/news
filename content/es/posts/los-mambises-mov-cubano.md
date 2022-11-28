@@ -1,5 +1,5 @@
 ---
-title: "Los Mambises, un movimiento cívico para boicotear negocios del gobierno de Cuba"
+title: "Los Mambises, un movimiento cívico para boicotear negocios de la Dictadura de Cuba"
 categories: [Noticias, Cuba]
 tags: [Cuba, Los mambises, Boicot a la Dictadura, Movimiento Civico cubano, Alberto Fonseca]
 authors: ["Esteban Suarez"]
@@ -9,7 +9,7 @@ draft: false
 socialshare: true
 ---
 
-Los Mambises es el nombre de un movimiento de lucha cívica pacífica, creado este diciembre con el propósito de boicotear los negocios del gobierno cubano desde las redes sociales. 
+Los Mambises es el nombre de un movimiento de lucha cívica pacífica, creado este diciembre con el propósito de boicotear los negocios del regimen cubano desde las redes sociales. 
 
 Su fundador es el activista cubano radicado en Canadá, Alberto Fonseca, quien a inicios de este mes protestó, junto a un amigo, por la venta en tiendas de la ciudad de Vancouver de café Cubita, un producto asociado a la empresa estatal CIMEX y el conglomerado militar GAESA. 
 
