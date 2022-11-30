@@ -27,7 +27,7 @@ disableKinds = ["taxonomyTerm"]
 [languages]
   [languages.es]
     contentDir = 'content/es'
-    title = 'Cubanoticias'
+    title = 'Noticias de Cuba'
     languageName = 'Spanish'
     weight = 1
      [languages.es.params]
@@ -64,7 +64,7 @@ disableKinds = ["taxonomyTerm"]
     
   [languages.en]
     contentDir = 'content/en'
-    title = 'Cubanoticias'
+    title = 'Noticias de Cuba'
     languageName = 'English'
     weight = 2
     [languages.en.params]
